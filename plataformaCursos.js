@@ -1,1 +1,3 @@
-console.log("Aquí puedes mirar nuestros cursos");
+function Chequear () { 
+    console.log("Aquí puedes mirar nuestros cursos");
+}
