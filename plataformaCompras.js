@@ -1,1 +1,1 @@
-console.log("Aqui puedes comprar los cursos");
+console.log("Aqui puedes comprar los cursos de programacion");
